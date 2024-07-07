@@ -1,0 +1,39 @@
+.container {
+    max-width: 1200px;
+  }
+  
+  .navbar {
+    padding: 0;
+  }
+  
+  .form-control {
+    border-radius: 0.25rem;
+  }
+  
+  .btn-outline-secondary {
+    border-radius: 0.25rem;
+  }
+  
+  .card {
+    border-radius: 0.25rem;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 0.875rem;
+    color: #6c757d;
+  }
+  
+  .btn-dark {
+    border-radius: 0.25rem;
+  }
+  
